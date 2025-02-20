@@ -1,0 +1,23 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "args",
+      "rootUri": "file:///C:/Users/bmerk/AppData/Local/Pub/Cache/hosted/pub.dev/args-2.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "pascal",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.6"
+    }
+  ],
+  "generated": "2025-02-20T18:11:07.704110Z",
+  "generator": "pub",
+  "generatorVersion": "3.6.0",
+  "flutterRoot": "file:///C:/Users/bmerk/flutter",
+  "flutterVersion": "3.27.1",
+  "pubCache": "file:///C:/Users/bmerk/AppData/Local/Pub/Cache"
+}
