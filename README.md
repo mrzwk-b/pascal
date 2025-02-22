@@ -1,0 +1,1 @@
+tool for generating visualizations of pascal's triangle with modular arithmetic
